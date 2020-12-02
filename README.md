@@ -5,6 +5,7 @@ A python script that detects all the faces from a video capture in a real-time b
 ### Installation Requirements: 
 
 ```
+---
 * OpenCV 
   ** import cv2
 * face_recognition Library 
@@ -13,6 +14,7 @@ A python script that detects all the faces from a video capture in a real-time b
   ** import os
 * NumPy Library
   ** import numpy as np
+---
   
 ```
 
